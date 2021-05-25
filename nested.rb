@@ -59,7 +59,13 @@ def dennis_ritchies_language
       }
     }
     
-    while programmer_hash[:dennis_ritchie]
+    counter = 0
+    while programmer_hash[:dennis_ritchie][counter] do
+      programmer_hash[:dennis_ritchie][counter]
+      counter += 1 
+    end
+    
+    
 
 end
 
