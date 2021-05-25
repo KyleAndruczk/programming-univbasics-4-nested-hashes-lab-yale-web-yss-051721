@@ -59,7 +59,7 @@ def dennis_ritchies_language
       }
     }
     
-    
+    while programmer_hash[:dennis_ritchie]
 
 end
 
